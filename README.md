@@ -1,7 +1,7 @@
 <h1>Jogo de Xadrez ♖</h1>
 
 <h2> Sobre</h2>
-<p>Jogo de xadrez ainda em desenvolvimento em Java!</p>
+<p>Jogo de xadrez ainda em desenvolvimento!</p>
 
 ## Tecnologias
 <div>
